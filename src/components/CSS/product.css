@@ -1,0 +1,57 @@
+
+.bgImage{
+    background:url("../../images/marissa-grootes-D4jRahaUaIc-unsplash.jpg") no-repeat center center/cover;
+    opacity: 0.9;
+}
+#addtocart:hover{
+color: white;
+cursor: pointer;
+}
+.banner{
+    background:url("../../images/img/banner/b2.jpg") ;
+    opacity: 0.9;
+}
+.banner2{ 
+    background:url("../../images/img/banner/b17.jpg") no-repeat  ;
+    opacity: 0.9;
+}
+.banner2:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.banner3{
+    background:url("../../images/img/banner/b10.jpg") no-repeat;
+    opacity: 0.9;
+}
+.banner3:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.banner4{
+    background:url("../../images/img/banner/b7.jpg") no-repeat;
+    opacity: 0.9;
+}
+.banner4:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.banner5{
+    background:url("../../images/img/banner/b4.jpg") no-repeat center;
+    opacity: 0.9;
+}
+.banner5:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.banner6{
+    background:url("../../images/img/banner/b18.jpg") no-repeat;
+    opacity: 0.9;
+}
+.banner6:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.returnMainDiv img:hover{
+cursor:pointer;
+opacity: 0.5;
+}
