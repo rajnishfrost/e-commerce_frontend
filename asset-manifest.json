@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a45a990.css",
+    "main.js": "/static/js/main.16baf054.js",
+    "static/js/453.f02a7e9e.chunk.js": "/static/js/453.f02a7e9e.chunk.js",
+    "static/media/marissa-grootes-D4jRahaUaIc-unsplash.jpg": "/static/media/marissa-grootes-D4jRahaUaIc-unsplash.b74023fca1ee4b0484b5.jpg",
+    "static/media/b4.jpg": "/static/media/b4.d4973636195481212099.jpg",
+    "static/media/b18.jpg": "/static/media/b18.e0d6bcaf42b430fde405.jpg",
+    "static/media/b10.jpg": "/static/media/b10.a08e172c86210ae63dad.jpg",
+    "static/media/shopping-cart-icon-illustration-free-vector.webp": "/static/media/shopping-cart-icon-illustration-free-vector.6e6d440632b04e80f8e9.webp",
+    "static/media/b17.jpg": "/static/media/b17.2da9a940b676cf8eb0f5.jpg",
+    "static/media/b2.jpg": "/static/media/b2.143e491242b908d2e1fa.jpg",
+    "static/media/b7.jpg": "/static/media/b7.2af5c7833ccb4dec437f.jpg",
+    "index.html": "/index.html",
+    "main.5a45a990.css.map": "/static/css/main.5a45a990.css.map",
+    "main.16baf054.js.map": "/static/js/main.16baf054.js.map",
+    "453.f02a7e9e.chunk.js.map": "/static/js/453.f02a7e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a45a990.css",
+    "static/js/main.16baf054.js"
+  ]
+}
